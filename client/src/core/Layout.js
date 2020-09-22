@@ -13,7 +13,7 @@ const Layout = ({
     <Menu />
     <div className="jumbotron">
       <Link to="/">
-        <img className="logo" src="/green_farm.png" />
+        <img className="logo" src="/green_farm.png" alt="GreenFarm Logo" />
       </Link>
       <h2>{title}</h2>
       <p className="lead">{description}</p>
